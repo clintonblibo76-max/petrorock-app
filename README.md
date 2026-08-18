@@ -6,7 +6,7 @@ PetroRock is a specialized reservoir engineering and petrophysics web applicatio
 
 ## 🚀 Live Application
 
-- **Streamlit Community Cloud URL**: `https://petrorock-app-bcs2610061209.streamlit.app/` 
+- **Streamlit Community Cloud URL**: `https://petrorock-app-bcs2610061209.streamlit.app` 
 
 ---
 
